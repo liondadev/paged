@@ -1,3 +1,5 @@
+**note: this is unfinished because I got bored, the only thing that works is the basic hosting**
+
 <p align="middle">
 <img src="/.github/assets/banner.png" width="75%"">
 </p>
